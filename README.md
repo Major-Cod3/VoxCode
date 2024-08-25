@@ -5,9 +5,9 @@ O VoxCode é uma tecnologia de armazenamento de dados que utiliza um sistema tri
 
 ### Características principais:
 
-- Armazenamento Tridimensional: Em vez de uma única superfície plana, os dados são distribuídos em várias camadas, onde cada camada corresponde a uma matriz de píxeis coloridos. Cada voxel (pixel volumétrico) dentro da matriz contém informações baseadas em suas coordenadas e sua cor RGB.
-- Codificação RGB: Cada camada de dados é representada por uma cor RGB específica, permitindo uma vasta combinação de variações e, consequentemente, uma maior densidade de informações armazenadas em um único bloco tridimensional.
-- Alta Capacidade de Armazenamento: Devido à sua estrutura em 3D, o VoxCode pode armazenar muito mais informações por unidade de área em comparação com sistemas bidimensionais tradicionais, tornando-o ideal para aplicações onde a compactação e a capacidade de armazenamento são cruciais.
+- **Armazenamento Tridimensional**: Em vez de uma única superfície plana, os dados são distribuídos em várias camadas, onde cada camada corresponde a uma matriz de píxeis coloridos. Cada voxel (pixel volumétrico) dentro da matriz contém informações baseadas em suas coordenadas e sua cor RGB.
+- **Codificação RGB**: Cada camada de dados é representada por uma cor RGB específica, permitindo uma vasta combinação de variações e, consequentemente, uma maior densidade de informações armazenadas em um único bloco tridimensional.
+- **Alta Capacidade de Armazenamento**: Devido à sua estrutura em 3D, o VoxCode pode armazenar muito mais informações por unidade de área em comparação com sistemas bidimensionais tradicionais, tornando-o ideal para aplicações onde a compactação e a capacidade de armazenamento são cruciais.
 
 ### Aplicações:
 
