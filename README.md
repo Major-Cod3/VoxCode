@@ -15,7 +15,7 @@ O VoxCode pode ser utilizado em diversas áreas, como armazenamento de dados dig
 
 ## Licença
 
-Este projeto é licenciado sob a [GNU General Public License v3.0](Licença). Veja o arquivo LICENSE para mais detalhes.
+Este projeto é licenciado sob a [GNU General Public License v3.0](LICENSE). Veja o arquivo LICENSE para mais detalhes.
 
 - **Você é livre para**: Compartilhar, modificar e redistribuir este código, desde que mantenha o mesmo nível de liberdade para qualquer código derivado.
 - **Você não pode**: Incorporar este código em projetos proprietários sem manter a mesma licença.
