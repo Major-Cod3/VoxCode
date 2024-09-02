@@ -12,3 +12,10 @@ O VoxCode é uma tecnologia de armazenamento de dados que utiliza um sistema tri
 ### Aplicações:
 
 O VoxCode pode ser utilizado em diversas áreas, como armazenamento de dados digitais em espaços físicos reduzidos, sistemas de autenticação avançada, marcação e rastreamento de produtos, bem como em tecnologias emergentes de realidade aumentada e virtual, onde a codificação tridimensional de informações pode ser explorada de maneiras inovadoras.
+
+## Licença
+
+Este projeto é licenciado sob a [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.txt). Veja o arquivo LICENSE para mais detalhes.
+
+- **Você é livre para**: Compartilhar, modificar e redistribuir este código, desde que mantenha o mesmo nível de liberdade para qualquer código derivado.
+- **Você não pode**: Incorporar este código em projetos proprietários sem manter a mesma licença.
